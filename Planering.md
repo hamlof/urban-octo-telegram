@@ -5,7 +5,7 @@ Projekt i skolan. Målet är att göra en blogg/portfolio som är relativt simpe
  
 ## Planering
 ### Innehåll
-
+Sidan kommer innehålla tre undersidor samt ett portfolio.
 ### Layout
 Simpel sida med rund design.
 ### Färgval
